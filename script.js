@@ -28,3 +28,7 @@ function getWeather() {
       result.innerHTML = "⚠ Error fetching data";
     });
 }
+function toggleMode() {
+  document.body.classList.toggle("light");
+}
+
