@@ -14,6 +14,10 @@ It fetches real-time weather data using the **OpenWeatherMap API**.
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view live app](https://shubhamkale01-dev.github.io/weather-app/)
+
 ## 🛠️ Tech Stack
 
 - HTML5  
