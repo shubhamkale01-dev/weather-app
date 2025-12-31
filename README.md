@@ -46,7 +46,7 @@ weather-app/
 
 ## 📦 Setup & Usage
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/shubhamkale01-dev/weather-app.git
 
